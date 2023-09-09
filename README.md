@@ -1,0 +1,1 @@
+Some neural networks that I have used in other projects. All are meant for use in genetic algorithms (no backprop).
